@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Libft -> [![asimone's 42 stats](https://badge42.vercel.app/api/v2/clgceq4q6004908jrauygtos1/stats?cursusId=21&coalitionId=58)](https://github.com/JaeSeoKim/badge42)
+[![asimone's 42 stats](https://badge42.vercel.app/api/v2/clgceq4q6004908jrauygtos1/stats?cursusId=21&coalitionId=58)](https://github.com/JaeSeoKim/badge42)
 
-[![asimone's 42 Libft Score](https://badge42.vercel.app/api/v2/clgceq4q6004908jrauygtos1/project/2818548)](https://github.com/JaeSeoKim/badge42)
+Libft ->  [![asimone's 42 Libft Score](https://badge42.vercel.app/api/v2/clgceq4q6004908jrauygtos1/project/2818548)](https://github.com/JaeSeoKim/badge42)
 
 [![asimone's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clgceq4q6004908jrauygtos1/project/2881507)](https://github.com/JaeSeoKim/badge42)
 
