@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![asimone's 42 stats](https://badge42.vercel.app/api/v2/clgceq4q6004908jrauygtos1/stats?cursusId=21&coalitionId=58)](https://github.com/JaeSeoKim/badge42)
+[![asimone's 42 stats](https://badge42.vercel.app/api/v2/clgceq4q6004908jrauygtos1/stats?cursusId=21&coalitionId=58)]((https://www.linkedin.com/in/simone-antonio/))
 
 <!--
 **AntonioSimo/AntonioSimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
