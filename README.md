@@ -30,11 +30,6 @@
 </p>
 
 <p align="center">
-  <b>🧑‍🍳 Soft skills from hospitality</b><br>
-  Years in restaurants shaped my communication, adaptability, and teamwork.
-</p>
-
-<p align="center">
   <b>🛡️ Cybersecurity Explorer</b><br>
   Strong personal interest in secure coding practices and system hardening.
 </p>
