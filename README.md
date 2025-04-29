@@ -1,6 +1,6 @@
 <!-- Welcome Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F87F&center=true&vCenter=true&width=700&lines=Hi,+I'm+Antonio+Simone!;C+Developer+%7C+Backend+Enthusiast;Learning+Systems+Programming+at+Codam" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=24&pause=1000&color=000000&center=true&vCenter=true&width=700&lines=Hi,+I'm+Antonio+Simone!;C+Developer+%7C+Backend+Enthusiast;Learning+Systems+Programming+at+Codam" />
 </p>
 
 <h1 align="center">👋 Welcome to My GitHub</h1>
