@@ -1,47 +1,74 @@
-<!-- Banner di Benvenuto -->
+<!-- Welcome Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Antonio+Simone;Software+Developer+@Codam;Passionate+about+C+and+Shells&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F87F&center=true&vCenter=true&width=700&lines=Hi,+I'm+Antonio+Simone!;C+Developer+%7C+Backend+Enthusiast;Learning+Systems+Programming+at+Codam" />
 </p>
 
-<h1 align="center">👋 Ciao, sono Antonio Simone</h1>
+<h1 align="center">👋 Welcome to My GitHub</h1>
 
 <p align="center">
-  🚀 Sviluppatore in formazione presso <strong>Codam Coding College (42 Network)</strong>  
-  <br>💻 Appassionato di sistemi, C e sviluppo Unix-like  
-  <br>📍 Amsterdam, NL
+  I'm a passionate junior software engineer focused on systems programming and backend development.  
+  <br>Currently studying full-time at <strong>Codam Coding College</strong>, part of the 42 Network in Amsterdam.  
+  <br>Strong foundation in <strong>C/C++</strong>, with a growing interest in <strong>TypeScript, React, DevOps</strong>, and <strong>Cybersecurity</strong>.  
 </p>
 
 ---
 
-## 🧠 Chi Sono
+## 🧠 About Me
 
-Studente motivato e curioso con una forte passione per la programmazione a basso livello, l’ottimizzazione delle performance e la creazione di strumenti utili.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,linux,docker,ts&theme=light" alt="skills" />
+</p>
+
+<p align="center">
+  <b>🔍 Self-motivated & problem-solving oriented</b><br>
+  I thrive on tackling technical challenges and continuously improving.
+</p>
+
+<p align="center">
+  <b>⚙️ Systems programming & clean code enthusiast</b><br>
+  Passionate about low-level development, performance, and elegant architecture.
+</p>
+
+<p align="center">
+  <b>🧑‍🍳 Soft skills from hospitality</b><br>
+  Years in restaurants shaped my communication, adaptability, and teamwork.
+</p>
+
+<p align="center">
+  <b>🛡️ Cybersecurity Explorer</b><br>
+  Strong personal interest in secure coding practices and system hardening.
+</p>
+
+<p align="center">
+  <b>🚀 Lifelong learner</b><br>
+  Currently building real-world applications at <a href="https://www.codam.nl/">Codam</a>, part of the 42 Network.
+</p>
 
 ---
 
-## 🛠️ Competenze Tecniche
+## 🛠️ Technical Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## 📂 Progetti Principali
+## 🚀 Featured Project
 
-| Nome            | Descrizione                                                                 | Linguaggi  |
-|-----------------|-----------------------------------------------------------------------------|------------|
-| [Minishell](https://github.com/AntonioSimo/minishell) | Shell Unix-like con parsing, piping, redirezioni e gestione dei segnali | ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c) |
-| [Codam_Core](https://github.com/AntonioSimo/Codam_Core) | Collezione di progetti Codam, da `libft` a algoritmi complessi          | ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c) |
-| [libft](https://github.com/AntonioSimo/libft) | Libreria C personale che replica funzioni standard e ne aggiunge altre  | ![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c) |
+### 🔹 [Codam_Core](https://github.com/AntonioSimo/Codam_Core)
+> A collection of core projects completed at [Codam Coding College](https://www.codam.nl/), ranging from shell development to full-stack and systems programming challenges.
 
 ---
 
-## 📈 Statistiche GitHub
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AntonioSimo&show_icons=true&theme=radical&hide_border=true" />
@@ -53,10 +80,11 @@ Studente motivato e curioso con una forte passione per la programmazione a basso
 
 ---
 
-## 📫 Contatti
+## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:antonio.simone@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:anton.simone95@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/simone-antonio"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/AntonioSimo"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
